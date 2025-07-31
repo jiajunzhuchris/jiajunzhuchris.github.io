@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Jiajun Zhu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "jiajunzhuchris.github.io"
+description              : "Undergraduate Student"
+major                    : "Computer Science"
+saying                   : "——Stay hungry, stay foolish."
+repository               : "jiajunzhuchris/jiajunzhuchris.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,13 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiajun Zhu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/me_512x512.jpg"
+  bio              : "Chu Kochen Honors College, Zhejiang University"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=4dHfSoQAAAAJ"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=4dHfSoQAAAAJ"
+  email            : "jiajunzhuchris@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +47,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0002-1438-0561"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -136,7 +138,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: UTC
 
 
 # Plugins
