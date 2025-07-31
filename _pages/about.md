@@ -68,5 +68,5 @@ My previous main research direction was HCI, Visualization Analysis and Interact
 # Services
 ### Campus Involvement
 - *2023.09-2024.06*: Director of Publicity Department, Secretariat of Chu Kochen Honors College Alumni Association, Zhejiang University
-- *2022.09-2023.06*: Deputy Director of Innovation and Entrepreneurship Training Camp, Zhejiang University
+- *2022.09-2023.06*: Deputy Director of Publicity Department, Innovation and Entrepreneurship Training Camp, Zhejiang University
 - *2022.09-2023.06*: Publicity Officer of Publicity Department, Secretariat of Chu Kochen Honors College Alumni Association, Zhejiang University
