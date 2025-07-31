@@ -63,7 +63,7 @@ My previous main research direction was HCI, Visualization Analysis and Interact
 - *2023.04*: Zhejiang University Energy Conservation Technology Competition Second Prize
 
 # Projects
-- **[Project leader]** The project leader of the project "Visualization of Understanding and Debugging of Complex Data Wrangling Scripts" (SRTP Scientific Research and Practice Project of Zhejiang University, 2024.05-2025.05)
+- **[Project leader]** The project leader of the project "Visualization of Understanding and Debugging of Complex Data Wrangling Scripts" (SRTP Project of Zhejiang University, 2024.05-2025.05)
 
 # Services
 ### Campus Involvement
