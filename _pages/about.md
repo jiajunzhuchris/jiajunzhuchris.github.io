@@ -37,8 +37,9 @@ My previous main research direction was HCI, Visualization Analysis and Interact
 
 **ViseGPT: Towards Better Alignment of LLM generated Data Wrangling Scripts and User Prompts.** ***Jiajun Zhu*\***, Xinyu Cheng*, Zhongsu Luo, Yunfan Zhou, Xinhuan Shu, Di Weng, Yingcai Wu
 
-<!-- [**📜 Paper**](https://ieeexplore.ieee.org/abstract/document/10670464)&nbsp;&nbsp;&nbsp;
-[**📄 Pdf**](https://dwe.ng/pdf/ferry.pdf)&nbsp;&nbsp;&nbsp;
+<!-- [**📜 Paper**](https://ieeexplore.ieee.org/abstract/document/10670464)&nbsp;&nbsp;&nbsp; -->
+[**📄 Pdf**](https://arxiv.org/pdf/2508.01279)
+<!-- &nbsp;&nbsp;&nbsp;
 [**🎥 Video**](https://www.youtube.com/watch?v=ckWQGHQwdb4) -->
 </div>
 </div>
