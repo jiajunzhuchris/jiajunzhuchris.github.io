@@ -56,6 +56,7 @@ My previous main research direction was HCI, NLP Interface Design and Visualizat
 </div>
 
 - **Watchtower: Semantic-aware Authoring of Data Validation Rules.** Zhongsu Luo, Jiawen Zhu, Xinhuan Shu, Shuhan Liu, Xiwen Cai, Ran Chen, Kai Xiong, ***Jiajun Zhu***, Di Weng, Yingcai Wu. *In submission*
+- **AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction.** Yanjie Zhang, ***Jiajun Zhu***, Minyu Wu, Huamin Qu, and Sicheng Song. *In submission*
 
 # Honors and Awards
 - *2022.11-2024.11*: **Scholarship of Zhejiang University**
@@ -66,6 +67,7 @@ My previous main research direction was HCI, NLP Interface Design and Visualizat
 
 # Projects
 - **[Project leader]** The project leader of the project "Visualization of Understanding and Debugging of Complex Data Wrangling Scripts" (SRTP Project of Zhejiang University, 2024.05-2025.05)
+- **[Project member]** Make verbal analysis for AI team of the QEF project "AI-assisted VR English Speaking Program" in HKUST VisLab (QEF Project, 2025.07-2025.12)
 
 # Services
 ### Campus Involvement
