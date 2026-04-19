@@ -63,7 +63,7 @@ Currently, I am wrapping up a visiting internship at **HKUST VisLab**, supervise
 - **RuleScope: Semantic-aware Authoring of Data Validation Rules.** Zhongsu Luo, Jiawen Zhu, Xinhuan Shu, Shuhan Liu, Xiwen Cai, Ran Chen, Kai Xiong, ***Jiajun Zhu***, Di Weng, Yingcai Wu. *Under Review*
 
 # Honors and Awards
-- **PGS Scholarship** (Postgraduate Studentship), HKUST (2025)
+- **PGS Scholarship (Postgraduate Studentship), HKUST** (2025)
 - **Scholarship of Zhejiang University** (2023, 2024)
 - **National Encouragement Scholarship** (2023)
 - **Lingjun Growth Scholarship Fund** (2023)
