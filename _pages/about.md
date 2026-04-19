@@ -19,9 +19,7 @@ redirect_from:
 # About me
 Nice to meet you! I am Jiajun ZHU (朱家骏), a senior undergraduate student at Chu Kochen Honors College, **Zhejiang University**, majoring in **Computer Science and Technology**. 
 
-My research focuses on **LLM-based Agents, Human-AI Collaboration, and Visual Analytics**. Specifically, I explore **UI Agents** operating in complex production environments (e.g., Browser-use) and the self-verification loop of code-generation agents. I have published papers at top-tier venues including **UIST (CCF-A)** and **IEEE VIS (CCF-A)** .
-
-Currently, I am wrapping up a visiting internship at **HKUST VisLab**, supervised by Prof. Huamin Qu. I have been working with Prof. Yingcai Wu and Dr. Di Weng at **ZJU IDG Lab** since 2023.
+My research focuses on **LLM-based Agents, Human-AI Collaboration, and Visual Analytics**. During the latter half of 2025, I conducted research as a visiting intern at **HKUST VisLab**, advised by Prof. Huamin Qu. I have been working with Prof. Yingcai Wu and Dr. Di Weng at **ZJU IDG Lab** since 2023.
 
 **Looking ahead:** I have received a full Ph.D. scholarship offer from **HKUST** (starting Fall 2026), where I will continue my research under the supervision of Prof. Jun Han and Prof. Huamin Qu. **I am available for a research internship from April to August 2026** and open to long-term collaborations bridging academia and industry.
 
