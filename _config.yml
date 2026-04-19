@@ -26,7 +26,7 @@ author:
   name             : "Jiajun Zhu"
   avatar           : "images/me_512x512.jpg"
   bio              : "Chu Kochen Honors College, Zhejiang University"
-  location         : "Hong Kong, China"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4dHfSoQAAAAJ"
@@ -59,7 +59,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://jiajunzhuchris.github.io/assets/files/Jiajun_CV.pdf"
+  cv               : # "https://jiajunzhuchris.github.io/assets/files/Jiajun_CV.pdf"
 
 
 # Reading Files
