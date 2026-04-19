@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-Nice to meet you! I am Jiajun ZHU (朱家骏), an undergraduate student at Chu Kochen Honors College of **Zhejiang University**, majoring in **Computer Science and Technology** (GPA: 3.87/4.00). During my undergraduate studies, I have been supervised by [Prof. Yingcai Wu](http://www.ycwu.org/) and [Dr. Di Weng](https://dwe.ng/en/about/) in [ZJU IDG Lab](https://zjuidg.org/) since July 2023. And I have collaborated with [Dr. Xinhuan Shu](https://shuxinhuan.github.io/). From July 2025, I'll undertake a multi-month visiting internship at [HKUST VisLab](http://vis.cse.ust.hk/index.html), supervised by [Prof. Huamin Qu](http://www.huamin.org/).
+Nice to meet you! I am Jiajun ZHU (朱家骏), a senior undergraduate student at Chu Kochen Honors College, **Zhejiang University**, majoring in **Computer Science and Technology**. 
 
-My previous main research direction was HCI, NLP Interface Design and Visualization in Data Science. **I'm exploring scientific cooperation opportunities all the time. Open to chat!**
+My research focuses on **LLM-based Agents, Human-AI Collaboration, and Visual Analytics**. Specifically, I explore **UI Agents** operating in complex production environments (e.g., Browser-use) and the self-verification loop of code-generation agents. I have published first-authored papers at top-tier venues including **UIST (CCF-A)** and **IEEE VIS (CCF-A)** .
+
+Currently, I am wrapping up a visiting internship at **HKUST VisLab**, supervised by Prof. Huamin Qu. I have been working with Prof. Yingcai Wu and Dr. Di Weng at **ZJU IDG Lab** since 2023.
+
+**Looking ahead:** I have received a full Ph.D. scholarship offer from **HKUST** (starting Fall 2026), where I will continue my research under the supervision of Prof. Jun Han and Prof. Huamin Qu. **I am available for a research internship from April to August 2026** and open to long-term collaborations bridging academia and industry.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -54,19 +58,30 @@ My previous main research direction was HCI, NLP Interface Design and Visualizat
 </div>
 </div>
 
-- **Watchtower: Semantic-aware Authoring of Data Validation Rules.** Zhongsu Luo, Jiawen Zhu, Xinhuan Shu, Shuhan Liu, Xiwen Cai, Ran Chen, Kai Xiong, ***Jiajun Zhu***, Di Weng, Yingcai Wu. *In submission*
-- **AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction.** Yanjie Zhang, ***Jiajun Zhu***, Minyu Wu, Huamin Qu, and Sicheng Song. *In submission*
+- **Object-Oriented Writing: A Structure-Driven Paradigm for Academic Writing.** ***Jiajun Zhu***, Xinyu Cheng, Wenshuo Zhang, Huamin Qu, Yanna Lin, *Under Review*
+- **AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction.** Yanjie Zhang, ***Jiajun Zhu***, Minyu Wu, Huamin Qu, and Sicheng Song. *Under Review*
+- **RuleScope: Semantic-aware Authoring of Data Validation Rules.** Zhongsu Luo, Jiawen Zhu, Xinhuan Shu, Shuhan Liu, Xiwen Cai, Ran Chen, Kai Xiong, ***Jiajun Zhu***, Di Weng, Yingcai Wu. *Under Review*
 
 # Honors and Awards
-- *2022.11-2024.11*: **Scholarship of Zhejiang University**
-- *2022.11-2023.11*: **National Encouragement Scholarship**
-- *2022.11-2023.11*: **Lingjun Growth Scholarship Fund**
-- *2023.05*: Zhejiang University Innovation and Entrepreneurship Competition Bronze Award
-- *2023.04*: Zhejiang University Energy Conservation Technology Competition Second Prize
+- **PGS Scholarship** (Postgraduate Studentship), HKUST (2025)
+- **Scholarship of Zhejiang University** (2023, 2024)
+- **National Encouragement Scholarship** (2023)
+- **Lingjun Growth Scholarship Fund** (2023)
+- Bronze Award, Zhejiang University Innovation and Entrepreneurship Competition (2023)
+- Second Prize, Zhejiang University Energy Conservation Technology Competition (2023)
 
 # Projects
-- **[Project leader]** The project leader of the project "Visualization of Understanding and Debugging of Complex Data Wrangling Scripts" (SRTP Project of Zhejiang University, 2024.05-2025.05)
-- **[Project member]** Make verbal analysis for AI team of the QEF project "AI-assisted VR English Speaking Program" in HKUST VisLab (QEF Project, 2025.07-2025.12)
+- **[Project Leader & First Author]** **Object-Oriented Writing: A Structure-Driven Paradigm for Academic Writing** (2025.10 - 2026.04)  
+  Designed and developed a UI Agent system integrated into Overleaf as a browser plugin, enabling structure-aware, controllable academic writing with a Qwen3-based AI agent and diff visualization. User study (N=12) showed significant improvement in writing logic quality and reduced cognitive load.
+
+- **[Project Member & Full-stack Developer]** **AI-Assisted English Speaking Practice & Lesson Plan Generation** (2025.07 - 2025.12)  
+  Developed and deployed LLM-based scoring agents for the GAVIS platform, using SpeechAce and Docker microservices to evaluate pronunciation, fluency, and task completion. Contributed frontend and vector retrieval components for AdaPT, an adaptive lesson plan system using dynamic prompt chaining.
+
+- **[Project Leader & First Author]** **ViseGPT: Alignment of LLM-generated Data Wrangling Scripts and User Prompts** (2024.11 - 2025.04)  
+  Built a constraint-based unit testing framework enabling LLM agents to self-verify and iteratively correct code generation. Implemented full-stack system (React, D3.js, Python) with Llama-3.3 backend; reduced user debugging time by over 40% (UIST 2025).
+
+- **[Project Leader & Core Developer]** **AI-Driven Data Wrangling Understanding and Verification Framework** (2024.05 - 2025.05)  
+  Led an SRTP-funded project producing three systems: Ferry (full-stack with Z3 solver and GPT-4 for counterexample generation, reducing script understanding time by 40%), ViseGPT (see above), and RuleScope (early frontend contributions for constraint visualization).
 
 # Services
 ### Campus Involvement
@@ -77,4 +92,4 @@ My previous main research direction was HCI, NLP Interface Design and Visualizat
 # Hobbies
 I have a wide range of hobbies. I'm really into **traditional Chinese culture** — studying history, dragon & lion dancing, Tai Chi, you name it. In my daily life, I enjoy **writing** and have experience as an editor and proofreader for news articles in student organizations. I’m also **an avid film and TV enthusiast**, analyzing storytelling techniques, cinematography, and cultural themes across genres. **Feel free to chat with me about anything — whether it’s academic collaboration or just casual hobbies!**
 - Our team won **first place** in the dragon dance category at Zhejiang University’s Traditional Martial Arts Competition.
-- I have written news articles for the Secretariat of Chu Kochen Honors College Alumni Association, which were published on the college's official WeChat account and later included in the magazine of the organization. [\[article 1\]](https://mp.weixin.qq.com/s/HiBEBVqYG_0Id8Hp8uIoTw) [\[article 2\]](https://mp.weixin.qq.com/s/USmj8ZyEhUMcHZlgSrlUng) [\[article 3\]](https://mp.weixin.qq.com/s/lM4-Wrw5YOJZgZyDVSh-VQ)
+- I have written news articles for the Secretariat of Chu Kochen Honors College Alumni Association, which were published on the college's official WeChat account and later included in the magazine of the organization.
