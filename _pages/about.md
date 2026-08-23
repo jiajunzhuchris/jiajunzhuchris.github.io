@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-Nice to meet you! I am a first-year Ph.D. student at **The Hong Kong University of Science and Technology (HKUST)**, advised by **Prof. Jun Han** and **Prof. Huamin Qu**. My research interests span **Scientific Visualization, Machine Learning, and Human-AI Interaction**.
+Nice to meet you! I am a first-year Ph.D. student at [**The Hong Kong University of Science and Technology (HKUST)**](https://hkust.edu.hk/), advised by [**Prof. Jun Han**](https://stevenhan1991.github.io/) and [**Prof. Huamin Qu**](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=huamin-qu-huamin). My research interests span **Scientific Visualization, Machine Learning, and Human-AI Interaction**.
 
-Before joining HKUST, I studied Computer Science and Technology at Chu Kochen Honors College, **Zhejiang University**, where I worked with Prof. Yingcai Wu and Dr. Di Weng at **ZJU IDG Lab**. During the second half of 2025, I was a visiting research intern at **HKUST VisLab**, advised by Prof. Huamin Qu. Since June 2026, I have been working as a Research Intern at **Alibaba Cloud**, focusing on **agentic databases**.
+Before joining HKUST, I studied Computer Science and Technology at Chu Kochen Honors College, [**Zhejiang University**](https://www.zju.edu.cn/english/), where I worked with [Prof. Yingcai Wu](https://person.zju.edu.cn/en/0014057/847623.html) and [Dr. Di Weng](https://dwe.ng/) at [**ZJU IDG Lab**](https://zjuidg.org/). During the second half of 2025, I was a visiting research intern at [**HKUST VisLab**](https://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=huamin-qu-huamin). Since June 2026, I have been working as a Research Intern at [**Alibaba Cloud**](https://www.alibabacloud.com/), focusing on **agentic databases**.
 
 I am actively seeking **research collaborations, research internship opportunities, and visiting or exchange opportunities**. Please feel free to reach out if our research interests overlap.
 
@@ -27,8 +27,8 @@ I am actively seeking **research collaborations, research internship opportuniti
 
 
 # News
-- **[June, 2026]** &nbsp;☁️ I joined **Alibaba Cloud** as a Research Intern, working on agentic databases.
-- **[May, 2026]** &nbsp;🎉 Our paper, **RuleScope**, has been accepted by **IEEE TVCG**!
+- **[June, 2026]** &nbsp;☁️ I joined [**Alibaba Cloud**](https://www.alibabacloud.com/) as a Research Intern, working on agentic databases.
+- **[May, 2026]** &nbsp;🎉 Our paper, [**RuleScope**](https://ieeexplore.ieee.org/abstract/document/11535324), has been accepted by **IEEE TVCG**!
 - **[July, 2025]** &nbsp;✈️ I have started my visiting internship at [HKUST VisLab](http://vis.cse.ust.hk/index.html), supervised by [Prof. Huamin Qu](http://www.huamin.org/)!
 - **[July, 2025]** &nbsp;🎉 My co-first-authored paper, ViseGPT, has been accepted by UIST 25. See you in Busan, Korea!
 - **[May, 2025]** &nbsp;📚 I have completed the defense for my SRTP (Student Research Training Program) project and received a "Good" rating for the final evaluation.
@@ -104,7 +104,7 @@ I am actively seeking **research collaborations, research internship opportuniti
 # Experience and Collaborations
 <div class="experience-logos">
   <a href="https://www.zju.edu.cn/english/" aria-label="Zhejiang University">
-    <img src="images/experience/zhejiang-university.png" alt="Zhejiang University logo">
+    <img src="images/experience/zhejiang-university.svg" alt="Zhejiang University logo">
   </a>
   <a href="https://hkust.edu.hk/" aria-label="The Hong Kong University of Science and Technology">
     <img src="images/experience/hkust.webp" alt="HKUST logo">
