@@ -72,6 +72,7 @@ I am actively seeking **research collaborations, research internship opportuniti
 - **AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction.** Yanjie Zhang, ***Jiajun Zhu***, Minyu Wu, Huamin Qu, and Sicheng Song. *Under Review*
 
 # Honors and Awards
+- Outstanding Undergraduate Thesis, Zhejiang University (2026)
 - **PGS Scholarship (Postgraduate Studentship), HKUST** (2025)
 - **Scholarship of Zhejiang University** (2023, 2024)
 - **National Encouragement Scholarship** (2023)
