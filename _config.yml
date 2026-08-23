@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jiajun Zhu"
-description              : "Undergraduate Student"
-major                    : "Computer Science"
+description              : "First-year Ph.D. Student"
+major                    : "Individualized Interdisciplinary Program"
 saying                   : "——Stay hungry, stay foolish."
 repository               : "jiajunzhuchris/jiajunzhuchris.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,8 +25,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiajun Zhu"
   avatar           : "images/me_512x512.jpg"
-  bio              : "Chu Kochen Honors College, Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "The Hong Kong University of Science and Technology"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4dHfSoQAAAAJ"

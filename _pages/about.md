@@ -17,16 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-Nice to meet you! I am Jiajun ZHU (朱家骏), a senior undergraduate student at Chu Kochen Honors College, **Zhejiang University**, majoring in **Computer Science and Technology**. 
+Nice to meet you! I am a first-year Ph.D. student at **The Hong Kong University of Science and Technology (HKUST)**, advised by **Prof. Jun Han** and **Prof. Huamin Qu**. My research interests span **Scientific Visualization, Machine Learning, and Human-AI Interaction**.
 
-My research focuses on **LLM-based Agents, Human-AI Collaboration, and Visual Analytics**. During the latter half of 2025, I conducted research as a visiting intern at **HKUST VisLab**, advised by Prof. Huamin Qu. I have been working with Prof. Yingcai Wu and Dr. Di Weng at **ZJU IDG Lab** since 2023.
+Before joining HKUST, I studied Computer Science and Technology at Chu Kochen Honors College, **Zhejiang University**, where I worked with Prof. Yingcai Wu and Dr. Di Weng at **ZJU IDG Lab**. During the second half of 2025, I was a visiting research intern at **HKUST VisLab**, advised by Prof. Huamin Qu. Since June 2026, I have been working as a Research Intern at **Alibaba Cloud**, focusing on **agentic databases**.
 
-**Looking ahead:** I have received a full Ph.D. scholarship offer from **HKUST** (starting Fall 2026), where I will continue my research under the supervision of Prof. Jun Han and Prof. Huamin Qu. **I am available for a research internship from April to August 2026** and open to long-term collaborations bridging academia and industry.
+I am actively seeking **research collaborations, research internship opportunities, and visiting or exchange opportunities**. Please feel free to reach out if our research interests overlap.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # News
+- **[June, 2026]** &nbsp;☁️ I joined **Alibaba Cloud** as a Research Intern, working on agentic databases.
+- **[May, 2026]** &nbsp;🎉 Our paper, **RuleScope**, has been accepted by **IEEE TVCG**!
 - **[July, 2025]** &nbsp;✈️ I have started my visiting internship at [HKUST VisLab](http://vis.cse.ust.hk/index.html), supervised by [Prof. Huamin Qu](http://www.huamin.org/)!
 - **[July, 2025]** &nbsp;🎉 My co-first-authored paper, ViseGPT, has been accepted by UIST 25. See you in Busan, Korea!
 - **[May, 2025]** &nbsp;📚 I have completed the defense for my SRTP (Student Research Training Program) project and received a "Good" rating for the final evaluation.
@@ -34,6 +36,16 @@ My research focuses on **LLM-based Agents, Human-AI Collaboration, and Visual An
 
 
 # Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2026</div><img src='images/paper/RuleScope.png' alt="RuleScope teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RuleScope: Semantic-Aware Authoring of Data Validation Rules.** Zhongsu Luo, Di Weng, Jiawen Zhu, Shuhan Liu, Xiwen Cai, Ran Chen, Kai Xiong, ***Jiajun Zhu***, Xinhuan Shu, Yingcai Wu
+
+[**📜 Paper**](https://ieeexplore.ieee.org/abstract/document/11535324)&nbsp;&nbsp;&nbsp;
+[**📄 Pdf**](https://dwe.ng/pdf/rulescope.pdf)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/paper/ViseGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +70,6 @@ My research focuses on **LLM-based Agents, Human-AI Collaboration, and Visual An
 
 - **Object-Oriented Writing: A Structure-Driven Paradigm for Academic Writing.** ***Jiajun Zhu***, Xinyu Cheng, Wenshuo Zhang, Huamin Qu, Yanna Lin, *Under Review*
 - **AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction.** Yanjie Zhang, ***Jiajun Zhu***, Minyu Wu, Huamin Qu, and Sicheng Song. *Under Review*
-- **RuleScope: Semantic-aware Authoring of Data Validation Rules.** Zhongsu Luo, Jiawen Zhu, Xinhuan Shu, Shuhan Liu, Xiwen Cai, Ran Chen, Kai Xiong, ***Jiajun Zhu***, Di Weng, Yingcai Wu. *Under Review*
 
 # Honors and Awards
 - **PGS Scholarship (Postgraduate Studentship), HKUST** (2025)
@@ -82,12 +93,26 @@ My research focuses on **LLM-based Agents, Human-AI Collaboration, and Visual An
   Led an SRTP-funded project producing three systems: Ferry (full-stack with Z3 solver and GPT-4 for counterexample generation, reducing script understanding time by 40%), ViseGPT (see above), and RuleScope (early frontend contributions for constraint visualization).
 
 # Services
+### Academic Service
+- Reviewer, IEEE International Conference on Data Engineering (**ICDE 2027**)
+
 ### Campus Involvement
 - *2023.09-2024.06*: Director of Publicity Department, the Secretariat of Chu Kochen Honors College Alumni Association, Zhejiang University
 - *2022.09-2023.06*: Deputy Director of Publicity Department, Innovation and Entrepreneurship Training Camp, Zhejiang University
 - *2022.09-2023.06*: Publicity Officer of Publicity Department, the Secretariat of Chu Kochen Honors College Alumni Association, Zhejiang University
 
-# Hobbies
-I have a wide range of hobbies. I'm really into **traditional Chinese culture** — studying history, dragon & lion dancing, Tai Chi, you name it. In my daily life, I enjoy **writing** and have experience as an editor and proofreader for news articles in student organizations. I’m also **an avid film and TV enthusiast**, analyzing storytelling techniques, cinematography, and cultural themes across genres. **Feel free to chat with me about anything — whether it’s academic collaboration or just casual hobbies!**
-- Our team won **first place** in the dragon dance category at Zhejiang University’s Traditional Martial Arts Competition.
-- I have written news articles for the Secretariat of Chu Kochen Honors College Alumni Association, which were published on the college's official WeChat account and later included in the magazine of the organization.
+# Experience and Collaborations
+<div class="experience-logos">
+  <a href="https://www.zju.edu.cn/english/" aria-label="Zhejiang University">
+    <img src="images/experience/zhejiang-university.png" alt="Zhejiang University logo">
+  </a>
+  <a href="https://hkust.edu.hk/" aria-label="The Hong Kong University of Science and Technology">
+    <img src="images/experience/hkust.webp" alt="HKUST logo">
+  </a>
+  <a href="https://www.alibabacloud.com/" aria-label="Alibaba Cloud">
+    <img src="images/experience/alibaba-cloud.png" alt="Alibaba Cloud logo">
+  </a>
+  <a href="https://www.ncl.ac.uk/" aria-label="Newcastle University">
+    <img src="images/experience/newcastle-university.png" alt="Newcastle University logo">
+  </a>
+</div>
