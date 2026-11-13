@@ -31,6 +31,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4dHfSoQAAAAJ"
   email            : "jiajunzhuchris@gmail.com"
+  academic_email   : "jzhucq@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +46,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "jiajun-zhu-8a8197387"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0002-1438-0561"
   pinterest        :
@@ -59,7 +60,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : # "https://jiajunzhuchris.github.io/assets/files/Jiajun_CV.pdf"
 
 
 # Reading Files

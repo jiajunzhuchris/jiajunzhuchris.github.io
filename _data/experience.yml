@@ -1,0 +1,43 @@
+education:
+  - title: The Hong Kong University of Science and Technology
+    url: https://hkust.edu.hk/
+    logo: images/experience/hkust.webp
+    alt: HKUST logo
+    dates: 2026.09–Present
+    role: Ph.D. Student, Individualized Interdisciplinary Program
+    detail: '<a href="https://ais.hkust.edu.hk/">Academy of Interdisciplinary Studies</a>'
+    people: 'Advisors: <a href="https://stevenhan1991.github.io/">Prof. Jun Han</a> and <a href="http://huamin.org/">Prof. Huamin Qu</a>'
+  - title: Zhejiang University
+    url: https://www.zju.edu.cn/english/
+    logo: images/experience/zhejiang-university.svg
+    alt: Zhejiang University logo
+    dates: 2022.09–2026.06
+    role: B.S. in Computer Science and Technology
+    detail: Chu Kochen Honors College · GPA 3.98/4.3
+research:
+  - title: Alibaba Cloud
+    url: https://www.alibabacloud.com/
+    logo: images/experience/alibaba-cloud.png
+    alt: Alibaba Cloud logo
+    dates: 2026.06–2026.08
+    role: Research Intern, ApsaraDB
+    people: 'Mentor: <a href="https://binwu.net/">Dr. Bin Wu</a>'
+    summary: 'Worked on <a href="https://www.aliyun.com/product/dms">Alibaba Cloud DMS</a> and contributed to the accompanying manuscript.'
+  - title: VisLab, HKUST
+    url: https://vis.cse.ust.hk/
+    logo: images/experience/hkust-emblem.svg
+    alt: HKUST university emblem
+    dates: 2025.07–2025.12
+    role: Visiting Research Intern
+    people: 'Supervisor: <a href="http://huamin.org/">Prof. Huamin Qu</a>'
+    summary: Investigated human–AI collaboration for structured authoring and educational applications.
+  - title: IDG, Zhejiang University
+    url: https://zjuidg.org/
+    # Official circular emblem: https://www.zju.edu.cn/514/listm.htm
+    logo: images/experience/zju-emblem.png
+    logo_class: affiliation-icon--padded
+    alt: Zhejiang University circular emblem
+    dates: 2023.07–2026.06
+    role: Research Assistant
+    people: 'Worked with <a href="https://person.zju.edu.cn/en/0014057/847623.html">Prof. Yingcai Wu</a> and <a href="https://dwe.ng/">Dr. Di Weng</a>'
+    summary: Studied human–LLM collaboration for understanding, validating, and refining data wrangling scripts.

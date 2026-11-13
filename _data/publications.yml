@@ -1,0 +1,85 @@
+order: [dms, logictree, latbridge, rulescope, adapt, visegpt, ferry]
+
+published:
+  - id: rulescope
+    title: "RuleScope: Semantic-aware Authoring of Data Validation Rules"
+    authors: 'Zhongsu Luo, <a href="https://dwe.ng/">Di Weng</a>, Jiawen Zhu, Shuhan Liu, Xiwen Cai, Ran Chen, Kai Xiong, <strong>Jiajun Zhu</strong>, Xinhuan Shu, <a href="https://person.zju.edu.cn/en/0014057/847623.html">Yingcai Wu</a>'
+    venue: IEEE TVCG 2026
+    status: Published
+    image: images/paper/rulescope.webp
+    alt: RuleScope interface with validation, data, and rule-detail views
+    links:
+      - { label: Paper, url: "https://ieeexplore.ieee.org/abstract/document/11535324" }
+      - { label: PDF, url: "https://dwe.ng/pdf/rulescope.pdf" }
+  - id: visegpt
+    title: "ViseGPT: Towards Better Alignment of LLM-generated Data Wrangling Scripts and User Prompts"
+    authors: '<strong>Jiajun Zhu*</strong>, Xinyu Cheng*, Zhongsu Luo, Yunfan Zhou, Xinhuan Shu, <a href="https://dwe.ng/">Di Weng</a>, <a href="https://person.zju.edu.cn/en/0014057/847623.html">Yingcai Wu</a>'
+    venue: UIST 2025
+    status: Published
+    note: "* Equal contribution."
+    image: images/paper/visegpt.webp
+    alt: ViseGPT interface showing a generated script, constraint tests, and visual debugging results
+    links:
+      - { label: Paper, url: "https://dl.acm.org/doi/10.1145/3746059.3747689" }
+      - { label: PDF, url: "https://arxiv.org/pdf/2508.01279" }
+      - { label: Video, url: "https://www.youtube.com/watch?v=zT1rYn0vf2o" }
+  - id: ferry
+    title: "Ferry: Toward Better Understanding of Input/Output Space for Data Wrangling Scripts"
+    authors: 'Zhongsu Luo, Kai Xiong, <strong>Jiajun Zhu</strong>, Ran Chen, Xinhuan Shu, <a href="https://dwe.ng/">Di Weng</a>, <a href="https://person.zju.edu.cn/en/0014057/847623.html">Yingcai Wu</a>'
+    venue: IEEE TVCG · Presented at IEEE VIS 2024
+    status: Published
+    image: images/paper/ferry.webp
+    alt: Ferry interface for inspecting scripts and their input and output constraints
+    links:
+      - { label: Paper, url: "https://ieeexplore.ieee.org/abstract/document/10670464" }
+      - { label: PDF, url: "https://dwe.ng/pdf/ferry.pdf" }
+      - { label: Video, url: "https://www.youtube.com/watch?v=ckWQGHQwdb4" }
+
+manuscripts:
+  - id: dms
+    title: Alibaba Cloud DMS
+    title_url: https://www.aliyun.com/product/dms
+    authors: Alibaba Computing Group
+    venue: Product live
+    status: Manuscript in submission
+    image: images/paper/dms-poster.jpg # Frame at 00:29 from the official video below.
+    video: "https://help-static-aliyun-doc.aliyuncs.com/file-manage-files/en-US/20230625/vyax/DMS%E8%8B%B1%E6%96%87%E7%89%88-2023.6.mp4"
+    alt: Official Alibaba Cloud DMS product introduction
+    project: A publicly available data management platform from Alibaba Cloud.
+    contribution: Major contributor to the accompanying manuscript.
+    media_credit: Official product introduction by Alibaba Cloud.
+    links:
+      - { label: Official Website, url: "https://www.aliyun.com/product/dms" }
+  - id: logictree
+    title: "LogicTree: Object-Oriented Writing for Structured Human-AI Academic Authoring"
+    title_url: https://arxiv.org/abs/2610.38136
+    authors: '<strong>Jiajun Zhu</strong>, Xinyu Cheng, <a href="https://zhang373.github.io/">Wenshuo Zhang</a>, <a href="http://huamin.org/">Huamin Qu</a>, <a href="https://yannahhh.github.io/">Yanna Lin</a>'
+    venue: arXiv · 2026
+    status: Under review
+    image: images/paper/logictree.webp
+    alt: LogicTree embedded in Overleaf with the source editor, object tree, and logical review interface
+    links:
+      - { label: arXiv, url: "https://arxiv.org/abs/2610.38136" }
+      - { label: PDF, url: "https://arxiv.org/pdf/2610.38136" }
+  - id: latbridge
+    title: "LatBridge: Efficient and Stable Model Replacement in Latent-Communication Multi-Agent Systems"
+    title_url: https://arxiv.org/abs/2610.27813
+    authors: '<strong>Jiajun Zhu</strong>, Haobo Li, Zixin Chen, <a href="http://huamin.org/">Huamin Qu</a>, <a href="https://zhang373.github.io/">Wenshuo Zhang</a>'
+    venue: arXiv · 2026
+    status: Under review
+    image: images/paper/latbridge.webp
+    alt: LatBridge reuses a shared Bridge and matching interfaces after an agent model is replaced
+    links:
+      - { label: arXiv, url: "https://arxiv.org/abs/2610.27813" }
+      - { label: PDF, url: "https://arxiv.org/pdf/2610.27813" }
+  - id: adapt
+    title: "AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction"
+    title_url: https://arxiv.org/abs/2606.17633
+    authors: 'Yanjie Zhang, <strong>Jiajun Zhu</strong>, Minyu Wu, <a href="http://huamin.org/">Huamin Qu</a>, Sicheng Song'
+    venue: arXiv · 2026
+    status: Under review
+    image: images/paper/adapt.webp
+    alt: AdaPT interface with a learning-profile panel, lesson-plan workspace, and review window
+    links:
+      - { label: arXiv, url: "https://arxiv.org/abs/2606.17633" }
+      - { label: PDF, url: "https://arxiv.org/pdf/2606.17633" }

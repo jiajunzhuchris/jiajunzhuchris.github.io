@@ -1,0 +1,30 @@
+<article class="paper-box" id="{{ paper.id }}">
+  <div class="paper-box-image">
+    {% if paper.video %}
+    <div class="media-frame video-frame">
+      <video controls playsinline preload="none" data-reset-to-poster poster="{{ paper.image }}" width="1204" height="677" aria-label="{{ paper.alt }}">
+        <source src="{{ paper.video }}" type="video/mp4">
+        Your browser does not support this video. <a href="{{ paper.title_url }}">Visit the official product website.</a>
+      </video>
+      <button class="video-cover" type="button" aria-label="Play {{ paper.title }} introduction video" hidden>
+        <img src="{{ paper.image }}" alt="" width="1920" height="1080">
+        <span class="video-cover-play" aria-hidden="true">▶</span>
+      </button>
+    </div>
+    {% else %}
+    <a class="media-frame image-popup" href="{{ paper.image }}" aria-label="View full-size image for {{ paper.id }}">
+      <img src="{{ paper.image }}" alt="{{ paper.alt }}" loading="lazy" decoding="async" width="1280" height="800">
+    </a>
+    {% endif %}
+    {% if paper.media_credit %}<p class="media-credit">{{ paper.media_credit }}</p>{% endif %}
+  </div>
+  <div class="paper-box-text">
+    <div class="work-meta"><span class="work-venue">{{ paper.venue }}</span><span class="work-status{% if paper.status == 'Under review' %} work-status--review{% endif %}">{{ paper.status }}</span></div>
+    <h3 class="work-title">{% if paper.title_url %}<a href="{{ paper.title_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
+    <p class="work-authors">{{ paper.authors }}</p>
+    {% if paper.note %}<p class="work-note">{{ paper.note }}</p>{% endif %}
+    {% if paper.project %}<p class="project-summary"><strong>Project.</strong> {{ paper.project }}</p>{% endif %}
+    {% if paper.contribution %}<p class="project-summary"><strong>My Contribution.</strong> {{ paper.contribution }}</p>{% endif %}
+    <div class="work-links">{% for link in paper.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}</div>
+  </div>
+</article>
